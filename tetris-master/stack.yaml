@@ -1,0 +1,10 @@
+flags: {}
+extra-package-dbs: []
+packages:
+  - '.'
+extra-deps: []
+resolver: lts-17.9
+nix:
+  packages:
+    - gcc
+    - ncurses
